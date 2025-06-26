@@ -17,6 +17,12 @@ This project demonstrates the use of **functional components**, **state**, **pro
 
 ---
 
+## 🚀 Live Demo
+
+🔗 [Click here to use the app](https://rudranathkabiraj.github.io/todo-list-app/)
+
+---
+
 ## 🛠️ Tech Stack
 
 - [React](https://react.dev/)
